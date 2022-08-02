@@ -1,8 +1,3 @@
-// Gary Jiang Zihao Luo
-// 5/25/2022
-// Rock Paper Scissor
-// Write a program that plays the game rock paper scissor
-
 #include <iostream>
 #include <stdio.h>
 #include <ctype.h>
